@@ -25,6 +25,8 @@ the following Vellum style options are not available:
 Example: Chapter 1: <Chapter name> or Part 1: <Part name>
 - '##' Heading 2 - Use for Chapter Subheadings
 - '###' Vellum Flush Left
+- Use Ulysses Code Block for Quote Attributions
+- Use Ulysses Raw Block for Subtitles (Parts and Chapters - Not Book SUbtitle)
 
 - Use Ulysses Quote, Stong (Bold), Emphasis (Italic) as normal and they will translate
 - Bulleted and dashed lists will translate properly in Vellum
