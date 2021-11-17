@@ -15,11 +15,15 @@ the following Vellum style options are not available:
 - Vellum Sans Serf
 - Internal Links
 
-## Supported Vellow Styles in Single Quotes
+## Supported Vellow Styles 
+
+### Book Title Page
 
 - '####' Book Tutle (Title)
 - '#####' Book Subtutle (Subtitle)
 - '######' Book Author (Vellum Author)
+
+### Chapter/Parts
 
 - '#" Heading 1 - Use for Chapter and Part Titles
   Example: Chapter 1: <Chapter name> or Part 1: <Part name>
@@ -27,14 +31,16 @@ the following Vellum style options are not available:
 - '###' Vellum Flush Left
 - Use Ulysses Code Block for Quote Attributions
 - Use Ulysses Raw Block for Subtitles (Parts and Chapters - Not Book SUbtitle)
-
-- Use Ulysses Quote, Stong (Bold), Emphasis (Italic) as normal and they will translate
-- Bulleted and dashed lists will translate to bulleted lists in Vellum by can be changed to 
-  numbered lists there
-- Captions added to inserted images will translate properly in Vellum
 - Add a Heading 1 for Epigraph, Copyright, Dedication pages and they will be hidden and 
   setup the proper sections in Vellum
-- Ornamental Breaks can be added "* * *" and will translate properly in Vellum
+  
+### Styles
+
+- Use Ulysses Quote, Stong (Bold), Emphasis (Italic) as normal and they will translate
+- Bulleted and dashed lists will translate to bulleted lists in Vellum
+  This can be changed back to numbered lists in Vellum
+- Captions added to inserted images will translate properly in Vellum
+- Ornamental Breaks can be added by using the Ulysses Divider Markup '----'
 - Ulyssess Footnotes and External URL Links translate properly
 
 
