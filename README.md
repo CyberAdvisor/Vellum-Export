@@ -22,17 +22,18 @@ the following Vellum style options are not available:
 - '######' Book Author (Vellum Author)
 
 - '#" Heading 1 - Use for Chapter and Part Titles
-Example: Chapter 1: <Chapter name> or Part 1: <Part name>
+  Example: Chapter 1: <Chapter name> or Part 1: <Part name>
 - '##' Heading 2 - Use for Chapter Subheadings
 - '###' Vellum Flush Left
 - Use Ulysses Code Block for Quote Attributions
 - Use Ulysses Raw Block for Subtitles (Parts and Chapters - Not Book SUbtitle)
 
 - Use Ulysses Quote, Stong (Bold), Emphasis (Italic) as normal and they will translate
-- Bulleted and dashed lists will translate properly in Vellum
+- Bulleted and dashed lists will translate to bulleted lists in Vellum by can be changed to 
+  numbered lists there
 - Captions added to inserted images will translate properly in Vellum
 - Add a Heading 1 for Epigraph, Copyright, Dedication pages and they will be hidden and 
-setup the proper sections in Vellum
+  setup the proper sections in Vellum
 - Ornamental Breaks can be added "* * *" and will translate properly in Vellum
 - Ulyssess Footnotes and External URL Links translate properly
 
