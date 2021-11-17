@@ -1,6 +1,6 @@
 # Vellum Export from Ulysses
 A export style for Ulysses to support transfer to the Vellum app for book formatting
-via an intermedite DOXC document. 
+via an intermedite Word document. 
 
 Style conversion based on the Vellum Advanced Import Guide.
 
@@ -37,7 +37,7 @@ the following Vellum style options are not available:
 ### Styles
 
 - Use Ulysses Quote, Stong (Bold), Emphasis (Italic) as normal and they will translate
-- Bulleted and dashed lists will translate to bulleted lists in Vellum
+- Bulleted and dashed lists will translate to bulleted lists in Vellum. 
   This can be changed back to numbered lists in Vellum
 - Captions added to inserted images will translate properly in Vellum
 - Ornamental Breaks can be added by using the Ulysses Divider Markup '----'
