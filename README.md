@@ -15,7 +15,7 @@ the following Vellum style options are not available:
 - Vellum Sans Serf
 - Internal Links
 
-## Supported Vellow Styles 
+## Supported Vellum Styles 
 
 ### Book Title Page
 
