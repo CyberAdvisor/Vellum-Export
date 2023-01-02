@@ -1,5 +1,5 @@
 # Vellum Export from Ulysses
-A export style for Ulysses to support transfer to the Vellum app for book formatting
+An export style for Ulysses to support transfer to the Vellum app for book formatting
 via an intermedite Word document. 
 
 Style conversion based on the Vellum Advanced Import Guide.
